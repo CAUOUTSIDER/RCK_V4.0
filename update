@@ -40,22 +40,22 @@ https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?h
 -------------------------------------------------------VOLLEYBALL------------------------------------------------------------------
 -------------------ballbar------------------
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaclmN7-l0Al6TeijgBkecBnKTJbxTK7mJQ&s" group-title="LIVE|VOLLEYBALL", VOLLEYBALL KOREAN HD
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/wjzalsjkfseolmdegsrjon4to9hvuldi9tud/hdntl=exp=1734886317~acl=*%2fwjzalsjkfseolmdegsrjon4to9hvuldi9tud%2f*~data=hdntl~hmac=dcf5add3c64c8996602e0c5159157d22331981a117558e28aaa9be9ba1f851c6/chunklist_1080.stream.m3u8
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/wjzalsjkfseolmdegsrjon4to9hvuldi9tud/hdntl=exp=1734886317~acl=*%2fwjzalsjkfseolmdegsrjon4to9hvuldi9tud%2f*~data=hdntl~hmac=dcf5add3c64c8996602e0c5159157d22331981a117558e28aaa9be9ba1f851c6/chunklist_1080.stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcaclmN7-l0Al6TeijgBkecBnKTJbxTK7mJQ&s" group-title="LIVE|VOLLEYBALL", VOLLEYBALL KOREAN AUTO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/wjzalsjkfseolmdegsrjon4to9hvuldi9tud/playlist.m3u8?hdnts=st=1734854129~exp=1734886539~acl=*/wjzalsjkfseolmdegsrjon4to9hvuldi9tud/*~hmac=216a100040fbb541d30625ed557a2ab3c87e2370926d12180358ff42e820e971
+#https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/wjzalsjkfseolmdegsrjon4to9hvuldi9tud/playlist.m3u8?hdnts=st=1734854129~exp=1734886539~acl=*/wjzalsjkfseolmdegsrjon4to9hvuldi9tud/*~hmac=216a100040fbb541d30625ed557a2ab3c87e2370926d12180358ff42e820e971
 
 #EXTINF:-1 tvg-logo="https://www.fivb.com/wp-content/uploads/2024/01/volleyball-club-world-champs-logo.jpg" group-title="LIVE|VOLLEYBALL", FINAL VOLLEYBALL HD
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-origin=https://thedaddy.to/stream/stream-332.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://ddv1.iosplayer.ru/tshttp/ddv1/premium103/mono.m3u8?token=none
+#https://ddv1.iosplayer.ru/tshttp/ddv1/premium103/mono.m3u8?token=none
 
 #EXTINF:-1 tvg-logo="https://www.fivb.com/wp-content/uploads/2024/01/volleyball-club-world-champs-logo.jpg" group-title="LIVE|VOLLEYBALL", FINAL VOLLEYBALL SD
 #EXTVLCOPT:http-referrer=https://www.facebook.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
-https://scontent.fcgk10-1.fna.fbcdn.net/hvideo-ldc-frc/_nc_cat-103/_nc_sr_t-4/v/rASdwpMl8qj2_Sy-e4k3TZDxY342kVnOcfXI7j0oYwzjabg/_nc_ohc-odlGa-Ow0QsQ7kNvgGPyugx/live-dash/dash-abr-ibr-audio/122124028370402745.mpd?_nc_eui2=AeFumeY6ueiHZeYH2QsBicR00KNWhTbWulLQo1aFNta6UmAgWwjxqTSxUqnJ2EjL_4DMWHUFP4HM58MMrpYLu8A6&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYDLCr5W1A5PY0OOQHwBs9R38F1D8Z5xfoon_EAGuSHcLw&oe=6769C226
+#https://scontent.fcgk10-1.fna.fbcdn.net/hvideo-ldc-frc/_nc_cat-103/_nc_sr_t-4/v/rASdwpMl8qj2_Sy-e4k3TZDxY342kVnOcfXI7j0oYwzjabg/_nc_ohc-odlGa-Ow0QsQ7kNvgGPyugx/live-dash/dash-abr-ibr-audio/122124028370402745.mpd?_nc_eui2=AeFumeY6ueiHZeYH2QsBicR00KNWhTbWulLQo1aFNta6UmAgWwjxqTSxUqnJ2EjL_4DMWHUFP4HM58MMrpYLu8A6&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AYDLCr5W1A5PY0OOQHwBs9R38F1D8Z5xfoon_EAGuSHcLw&oe=6769C226
 
 
 -------------------FB------------------
