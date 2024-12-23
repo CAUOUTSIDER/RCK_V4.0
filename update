@@ -19,7 +19,7 @@ https://mastertv.tech/VOD/SERIES/IndukGajahS2/informasi.mp4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdntl=exp=1734881115~acl=%2fdrm%2fdash%2f17624*~id=167880549~data=hdntl~hmac=81a0f74abe779b4d896cc7fbde4830498378386f109791ae2febffda5c60cd36
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17624_stream.mpd?hdntl=exp=1734881115~acl=%2fdrm%2fdash%2f17624*~id=167880549~data=hdntl~hmac=81a0f74abe779b4d896cc7fbde4830498378386f109791ae2febffda5c60cd36
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVQRWZPO5hZP4TNpCbhQh6HlCbea_6wt5TEA&s" group-title="LIVE|BRI LIGA 1", BRI B
 #KODIPROP:inputstream.adaptive.license_type=clearkey
